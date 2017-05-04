@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My astral project</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+    <!-- build:css({.tmp,src}) styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- run `gulp inject` to automatically populate bower styles dependencies -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:css({.tmp,src}) styles/app.css -->
+    <link rel="stylesheet" href="styles.css"/>
+    <!-- endbuild -->
+  </head>
+
+  <body>
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <h1> Hello world! </h1>
+<<<<<<< 33ec0d3fb81e2c6e5525a8492c0d1fdb6acb1ea1
+    <h2>First block</h2>
+=======
+    <h2>Bloque 1</h2>
+>>>>>>> Cambio bloque 1 master
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis pellentesque augue, eu pulvinar velit fringilla at. Phasellus viverra feugiat neque, eget tristique dui. Quisque commodo purus vel felis ultrices, et tincidunt lacus porta. Nulla eu quam faucibus erat accumsan maximus. Integer vitae orci cursus, finibus ex non, placerat est. Ut tincidunt gravida lacus vitae ultricies. Sed elementum et nulla quis iaculis. Morbi sit amet ante magna. Integer elementum dictum nunc at suscipit. Nam ex sem, convallis accumsan purus in, fermentum feugiat orci. Nulla ullamcorper eros quis velit commodo, vitae pellentesque purus fermentum. Etiam pretium cursus efficitur. Proin vitae mi sed quam semper pulvinar.</p>
+
+    <h2>Second block</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis pellentesque augue, eu pulvinar velit fringilla at. Phasellus viverra feugiat neque, eget tristique dui. Quisque commodo purus vel felis ultrices, et tincidunt lacus porta. Nulla eu quam faucibus erat accumsan maximus. Integer vitae orci cursus, finibus ex non, placerat est. Ut tincidunt gravida lacus vitae ultricies. Sed elementum et nulla quis iaculis. Morbi sit amet ante magna. Integer elementum dictum nunc at suscipit. Nam ex sem, convallis accumsan purus in, fermentum feugiat orci. Nulla ullamcorper eros quis velit commodo, vitae pellentesque purus fermentum. Etiam pretium cursus efficitur. Proin vitae mi sed quam semper pulvinar.</p>    
+
+    <h2>Third block</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis pellentesque augue, eu pulvinar velit fringilla at. Phasellus viverra feugiat neque, eget tristique dui. Quisque commodo purus vel felis ultrices, et tincidunt lacus porta. Nulla eu quam faucibus erat accumsan maximus. Integer vitae orci cursus, finibus ex non, placerat est. Ut tincidunt gravida lacus vitae ultricies. Sed elementum et nulla quis iaculis. Morbi sit amet ante magna. Integer elementum dictum nunc at suscipit. Nam ex sem, convallis accumsan purus in, fermentum feugiat orci. Nulla ullamcorper eros quis velit commodo, vitae pellentesque purus fermentum. Etiam pretium cursus efficitur. Proin vitae mi sed quam semper pulvinar.</
+  </body>
+
+  <!-- build:js({.tmp,src}) scripts/vendor.js -->
+  <!-- bower:js -->
+  <!-- run `gulp inject` to automatically populate bower script dependencies -->
+  <!-- endbower -->
+  <!-- endbuild -->
+
+  <!-- build:js({.tmp,src}) scripts/app.js -->
+  <!-- inject:js -->
+  <!-- js files will be automatically insert here -->
+  <!-- endinject -->
+  <!-- endbuild -->
+</html>
+
